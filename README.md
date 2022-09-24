@@ -14,6 +14,9 @@
 -----
 <div>
   <summary>☎️ contact me</summary>
+  <a href="https://johnkhh.com"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
+   alt="website" /></a>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
