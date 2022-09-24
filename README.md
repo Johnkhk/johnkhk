@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kwok Hung Ho (John)</h1>
-<h4 align="center">a Software Developer an also a graduate student at UC San Diego, see my <a href="https://github.com/Johnkhk/johnkhk/blob/main/Kwok%20Hung%20Ho%20Resume.pdf" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm John Ho (何国雄)</h1>
+<h4 align="center">I'm a Software Developer and also a graduate student studying <a href = "https://www.ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted">Intelligent Systems, Robotics & Control</a> at UC San Diego, see my <a href="https://github.com/Johnkhk/johnkhk/blob/main/Kwok%20Hung%20Ho%20Resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 
